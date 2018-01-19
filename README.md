@@ -1,4 +1,4 @@
-# WP-Register-Form-
+# WP-Register-Form
 Add new additional fields to default registration form in wordpress.
 Add this code on your theme function.php
 
